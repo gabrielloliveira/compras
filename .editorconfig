@@ -1,0 +1,28 @@
+# top-most EditorConfig file
+root = true
+
+[*]
+# Unix-style newlines
+end_of_line = lf
+# Remove trailing whitespace
+trim_trailing_whitespace = true
+# Add a final newline at the end of files
+insert_final_newline = true
+# Use UTF-8 character set
+charset = utf-8
+
+[*.{js,jsx,ts,tsx}]
+# Indent with spaces
+indent_style = space
+# Set indent size to 2 spaces
+indent_size = 2
+
+[*.json]
+# Indent with spaces
+indent_style = space
+# Set indent size to 2 spaces for JSON files
+indent_size = 2
+
+[*.md]
+# Preserve original indentation for Markdown files
+trim_trailing_whitespace = false
