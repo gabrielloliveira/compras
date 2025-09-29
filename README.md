@@ -15,3 +15,7 @@ Compras é um app feito em React Native para controle de compras de supermercado
 - React Native
 - Expo
 - AsyncStorage para persistência de dados
+
+## Imagem
+
+![Imagem do App](https://github.com/gabrielloliveira/compras/blob/main/assets/github/home-print.png?raw=true)
